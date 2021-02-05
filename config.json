@@ -7,6 +7,6 @@
   "LOCALE": "en",
   "support_server": "",
   "PRUNING": false,
-  "STAY_TIME": 1800,
+  "STAY_TIME": 86400,
   "DEFAULT_VOLUME": 100
 }
